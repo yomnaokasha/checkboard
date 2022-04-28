@@ -1,0 +1,30 @@
+h1 {
+  margin: auto;
+  width: 400px;
+  height: 50px;
+  background-color: black;
+  color: red;
+  text-align: center;
+  margin-bottom: 10px;
+}
+#container {
+  margin: auto;
+  width: 280px;
+  height: 280px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.red {
+  margin: 0%;
+  background-color: red;
+  width: 35px;
+  height: 35px;
+}
+
+.black {
+  margin: 0%;
+  background-color: black;
+  width: 35px;
+  height: 35px;
+}
